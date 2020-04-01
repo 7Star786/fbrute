@@ -1,6 +1,6 @@
 #fbrute
 >>>Facebook Bruteforce Python Script no Login Required  with Added Passlists 
-
+>>>>"Developer is not responsible for any missuse of this tool".
 
 apt update 
 
